@@ -1,65 +1,65 @@
 # 🎬 TMDB FilmFinder — Movie Search with Python & TMDB API
 
-> Projeto educacional de busca de filmes utilizando a API pública do The Movie Database (TMDB).
+> An educational project for searching movies using the public The Movie Database (TMDB) API.
 
 ---
 
-## 📖 Sobre o Projeto
+## 📖 About the Project
 
-O **TMDB FilmFinder** é uma aplicação Python que consome a [API do TMDB](https://www.themoviedb.org/documentation/api) para permitir a busca e consulta de informações sobre filmes, como título, sinopse, popularidade e poster. Desenvolvido com fins educacionais, o projeto serve como introdução ao consumo de APIs REST com Python.
-
----
-
-## ✨ Funcionalidades
-
-- 🔍 Busca de filmes por título
-- 📋 Exibição de informações detalhadas (título, sinopse, nota média, data de lançamento)
-- 🖼️ Acesso ao caminho do poster do filme
-- 🌐 Integração com a API REST do TMDB (v3)
+**TMDB FilmFinder** is a Python application that consumes the [TMDB API](https://www.themoviedb.org/documentation/api) to search and retrieve information about movies, such as title, overview, popularity, and poster. Built for educational purposes, this project serves as an introduction to consuming REST APIs with Python.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## ✨ Features
 
-| Tecnologia | Descrição |
+- 🔍 Search movies by title
+- 📋 Display detailed information (title, overview, average rating, release date)
+- 🖼️ Access movie poster paths
+- 🌐 Integration with the TMDB REST API (v3)
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology | Description |
 |---|---|
-| Python 3 | Linguagem principal |
-| Requests | Biblioteca para requisições HTTP |
-| TMDB API v3 | Fonte de dados de filmes |
+| Python 3 | Main programming language |
+| Requests | HTTP requests library |
+| TMDB API v3 | Movie data source |
 
 ---
 
-## 🚀 Como Executar
+## 🚀 Getting Started
 
-### Pré-requisitos
+### Prerequisites
 
-- Python 3.8 ou superior instalado
-- Conta no [TMDB](https://www.themoviedb.org/signup) para obter uma chave de API gratuita
+- Python 3.8 or higher installed
+- A [TMDB account](https://www.themoviedb.org/signup) to get a free API key
 
-### 1. Clone o repositório
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/mritaamaral/TMDB-FilmFinder-API-in-Python.git
 cd TMDB-FilmFinder-API-in-Python
 ```
 
-### 2. Instale as dependências
+### 2. Install dependencies
 
 ```bash
 pip install requests
 ```
 
-### 3. Configure sua chave de API
+### 3. Set up your API key
 
-Crie um arquivo `.env` ou edite o arquivo de configuração com sua chave:
+Create a `.env` file or edit the configuration file with your key:
 
 ```python
-API_KEY = "sua_chave_api_aqui"
+API_KEY = "your_api_key_here"
 ```
 
-> 💡 Para obter sua chave gratuita, acesse [developer.themoviedb.org](https://developer.themoviedb.org/docs/getting-started) e siga as instruções.
+> 💡 To get your free API key, visit [developer.themoviedb.org](https://developer.themoviedb.org/docs/getting-started) and follow the instructions.
 
-### 4. Execute o projeto
+### 4. Run the project
 
 ```bash
 python main.py
@@ -67,41 +67,41 @@ python main.py
 
 ---
 
-## 📁 Estrutura do Projeto
+## 📁 Project Structure
 
 ```
 TMDB-FilmFinder-API-in-Python/
-├── main.py          # Ponto de entrada da aplicação
-├── README.md        # Documentação do projeto
+├── main.py          # Application entry point
+├── README.md        # Project documentation
 └── ...
 ```
 
 ---
 
-## 📚 Aprendizados
+## 📚 What I Learned
 
-Este projeto foi desenvolvido como parte do aprendizado em programação, cobrindo conceitos como:
+This project was built as part of my programming journey, covering concepts such as:
 
-- Consumo de APIs REST com Python
-- Manipulação de respostas JSON
-- Uso da biblioteca `requests`
-- Organização básica de projetos Python
+- Consuming REST APIs with Python
+- Handling JSON responses
+- Using the `requests` library
+- Basic Python project organization
 
 ---
 
-## 🙋‍♀️ Autora
+## 🙋‍♀️ Author
 
 **Maria Rita Amaral**  
-Aspirante a desenvolvedora, atualmente aprendendo programação e construindo projetos práticos.
+Aspiring developer, currently learning programming and building hands-on projects.
 
 [![GitHub](https://img.shields.io/badge/GitHub-mritaamaral-181717?style=flat&logo=github)](https://github.com/mritaamaral)
 
 ---
 
-## 📄 Licença
+## 📄 License
 
-Este projeto foi desenvolvido para fins educacionais. Sinta-se à vontade para estudar e se inspirar no código! 😊
+This project was built for educational purposes. Feel free to study and draw inspiration from the code! 😊
 
 ---
 
-> *"Aprender programando, um projeto de cada vez."*
+> *"Learning by building, one project at a time."*
