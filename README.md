@@ -6,7 +6,7 @@
 
 ## 📖 About the Project
 
-**TMDB FilmFinder** is a Python application that consumes the [TMDB API](https://www.themoviedb.org/documentation/api) to search and retrieve information about movies, such as title, overview, popularity, and poster. Built for educational purposes, this project serves as an introduction to consuming REST APIs with Python.
+**TMDB FilmFinder** is a Python application that consumes the [TMDB API](https://www.themoviedb.org/documentation/api) to search and retrieve information about movies, such as title, overview, average and poster. Built for educational purposes, this project serves as an introduction to consuming REST APIs with Python.
 
 ---
 
