@@ -58,6 +58,7 @@ API_KEY = "your_api_key_here"
 ```
 
 > 💡 To get your free API key, visit [developer.themoviedb.org](https://developer.themoviedb.org/docs/getting-started) and follow the instructions.
+Note: The .env file is listed in .gitignore and will not be uploaded to GitHub to protect your data.
 
 ### 4. Run the project
 
