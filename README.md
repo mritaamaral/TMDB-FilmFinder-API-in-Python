@@ -92,7 +92,7 @@ This project was built as part of my programming journey, covering concepts such
 
 ## 🙋‍♀️ Author
 
-**Maria Rita Amaral**  
+**Maria Rita**  
 Aspiring developer, currently learning programming and building hands-on projects.
 
 [![GitHub](https://img.shields.io/badge/GitHub-mritaamaral-181717?style=flat&logo=github)](https://github.com/mritaamaral)
